@@ -20,3 +20,5 @@ This repository contains a Power BI project for analyzing and tracking online sa
 - Power BI
 - Power Query
 - DAX
+
+- dashboad.png ![Alt text for the image]( dashboad.png)
