@@ -1,4 +1,6 @@
 # madhav-ecommerce-sales-dashboard
+
+- dashboad.png ![Alt text for the image]( dashboad.png)
 This repository contains a Power BI project for analyzing and tracking online sales data for Madhav eCommerce.
 
 ## Key Features:
